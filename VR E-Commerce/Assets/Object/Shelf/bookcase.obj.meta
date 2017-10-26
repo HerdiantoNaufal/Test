@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 8141eca4c140ddf4781752cabbba6841
+timeCreated: 1502170564
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BookCase_1
+    100004: BookCase_10
+    100006: BookCase_11
+    100008: BookCase_12
+    100010: BookCase_13
+    100012: BookCase_14
+    100014: BookCase_15
+    100016: BookCase_16
+    100018: BookCase_17
+    100020: BookCase_18
+    100022: BookCase_19
+    100024: BookCase_2
+    100026: BookCase_20
+    100028: BookCase_21
+    100030: BookCase_22
+    100032: BookCase_23
+    100034: BookCase_24
+    100036: BookCase_3
+    100038: BookCase_4
+    100040: BookCase_5
+    100042: BookCase_6
+    100044: BookCase_7
+    100046: BookCase_8
+    100048: BookCase_9
+    400000: //RootNode
+    400002: BookCase_1
+    400004: BookCase_10
+    400006: BookCase_11
+    400008: BookCase_12
+    400010: BookCase_13
+    400012: BookCase_14
+    400014: BookCase_15
+    400016: BookCase_16
+    400018: BookCase_17
+    400020: BookCase_18
+    400022: BookCase_19
+    400024: BookCase_2
+    400026: BookCase_20
+    400028: BookCase_21
+    400030: BookCase_22
+    400032: BookCase_23
+    400034: BookCase_24
+    400036: BookCase_3
+    400038: BookCase_4
+    400040: BookCase_5
+    400042: BookCase_6
+    400044: BookCase_7
+    400046: BookCase_8
+    400048: BookCase_9
+    2300000: BookCase_1
+    2300002: BookCase_10
+    2300004: BookCase_11
+    2300006: BookCase_12
+    2300008: BookCase_13
+    2300010: BookCase_14
+    2300012: BookCase_15
+    2300014: BookCase_16
+    2300016: BookCase_17
+    2300018: BookCase_18
+    2300020: BookCase_19
+    2300022: BookCase_2
+    2300024: BookCase_20
+    2300026: BookCase_21
+    2300028: BookCase_22
+    2300030: BookCase_23
+    2300032: BookCase_24
+    2300034: BookCase_3
+    2300036: BookCase_4
+    2300038: BookCase_5
+    2300040: BookCase_6
+    2300042: BookCase_7
+    2300044: BookCase_8
+    2300046: BookCase_9
+    3300000: BookCase_1
+    3300002: BookCase_10
+    3300004: BookCase_11
+    3300006: BookCase_12
+    3300008: BookCase_13
+    3300010: BookCase_14
+    3300012: BookCase_15
+    3300014: BookCase_16
+    3300016: BookCase_17
+    3300018: BookCase_18
+    3300020: BookCase_19
+    3300022: BookCase_2
+    3300024: BookCase_20
+    3300026: BookCase_21
+    3300028: BookCase_22
+    3300030: BookCase_23
+    3300032: BookCase_24
+    3300034: BookCase_3
+    3300036: BookCase_4
+    3300038: BookCase_5
+    3300040: BookCase_6
+    3300042: BookCase_7
+    3300044: BookCase_8
+    3300046: BookCase_9
+    4300000: BookCase_1
+    4300002: BookCase_10
+    4300004: BookCase_11
+    4300006: BookCase_12
+    4300008: BookCase_13
+    4300010: BookCase_14
+    4300012: BookCase_15
+    4300014: BookCase_16
+    4300016: BookCase_17
+    4300018: BookCase_18
+    4300020: BookCase_19
+    4300022: BookCase_2
+    4300024: BookCase_20
+    4300026: BookCase_21
+    4300028: BookCase_22
+    4300030: BookCase_23
+    4300032: BookCase_24
+    4300034: BookCase_3
+    4300036: BookCase_4
+    4300038: BookCase_5
+    4300040: BookCase_6
+    4300042: BookCase_7
+    4300044: BookCase_8
+    4300046: BookCase_9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
